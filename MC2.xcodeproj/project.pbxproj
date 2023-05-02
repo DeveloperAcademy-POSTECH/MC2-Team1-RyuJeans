@@ -15,6 +15,7 @@
 		B5246A852A0011BA00656A33 /* DoubleTapView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5246A842A0011BA00656A33 /* DoubleTapView1.swift */; };
 		B5246A872A001B8D00656A33 /* DoubleTapView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5246A862A001B8D00656A33 /* DoubleTapView2.swift */; };
 		B5246A942A00ACAD00656A33 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5246A932A00ACAD00656A33 /* ColorExtension.swift */; };
+		DC8D82A12A00B180005C8333 /* TapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC8D82A02A00B180005C8333 /* TapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		B5246A842A0011BA00656A33 /* DoubleTapView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoubleTapView1.swift; sourceTree = "<group>"; };
 		B5246A862A001B8D00656A33 /* DoubleTapView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoubleTapView2.swift; sourceTree = "<group>"; };
 		B5246A932A00ACAD00656A33 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
+		DC8D82A02A00B180005C8333 /* TapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 		B5246A8D2A00AC2700656A33 /* TapView */ = {
 			isa = PBXGroup;
 			children = (
+				DC8D82A02A00B180005C8333 /* TapView.swift */,
 			);
 			path = TapView;
 			sourceTree = "<group>";
@@ -251,6 +254,7 @@
 				B5246A942A00ACAD00656A33 /* ColorExtension.swift in Sources */,
 				B5246A852A0011BA00656A33 /* DoubleTapView1.swift in Sources */,
 				B5246A872A001B8D00656A33 /* DoubleTapView2.swift in Sources */,
+				DC8D82A12A00B180005C8333 /* TapView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
